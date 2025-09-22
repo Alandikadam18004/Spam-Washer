@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:title="About Us"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_toggle_notifications"
+        android:orderInCategory="101"
+        android:title="Enable Notifications"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_feedback"
+        android:orderInCategory="102"
+        android:title="Send Feedback"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_logout"
+        android:orderInCategory="103"
+        android:title="Logout"
+        app:showAsAction="never" />
+</menu>

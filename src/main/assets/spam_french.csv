@@ -1,0 +1,61 @@
+label,text
+spam,Vous avez gagné 1000€! Cliquez ici pour réclamer votre prix.
+spam,Félicitations! Vous avez gagné un smartphone dernier cri. Réclamez-le maintenant.
+spam,Votre compte est en danger. Cliquez ici pour mettre à jour vos informations.
+spam,Vous avez gagné un concours de 5000€! Réclamez votre prix maintenant.
+spam,Obtenez un bon de 200€ immédiatement! Cliquez ici.
+spam,Votre compte bancaire a été suspendu. Cliquez ici pour le réactiver.
+spam,Vous avez été sélectionné pour recevoir un prix de 1000€. Cliquez ici.
+spam,Profitez maintenant! Obtenez une réduction exclusive jusqu’à 50%. Cliquez ici.
+spam,Félicitations! Vous avez gagné un voyage gratuit. Cliquez pour plus de détails.
+spam,Votre facture est sur le point de devenir en retard. Cliquez pour éviter des frais supplémentaires.
+spam,Recevez 300€ gratuitement! Cliquez sur le lien ci-dessous.
+spam,Vous avez un nouveau message! Cliquez ici pour le lire.
+spam,Vous avez un prix de 500€ qui vous attend! Cliquez pour le réclamer.
+spam,Vous avez gagné un million d’euros! Réclamez votre prix maintenant.
+spam,Vous avez un message important! Cliquez pour plus de détails.
+spam,Votre compte Amazon est bloqué. Cliquez pour le débloquer.
+spam,Vous avez gagné une voiture neuve! Réclamez-la maintenant.
+spam,Félicitations! Vous avez été sélectionné pour recevoir un iPhone 12.
+spam,Votre compte PayPal a été suspendu. Cliquez pour le récupérer.
+spam,Vous avez été sélectionné pour un bon de 1000€. Réclamez-le maintenant.
+spam,Votre compte bancaire a été compromis. Cliquez pour le sécuriser.
+spam,Vous avez gagné un voyage tout compris! Cliquez pour plus de détails.
+spam,Obtenez 200€ gratuitement! Cliquez ici pour en profiter.
+spam,Votre carte de crédit a été bloquée! Cliquez pour résoudre le problème.
+spam,Vous avez gagné 5000€! Cliquez ici pour réclamer votre prix.
+spam,Recevez un bon de 100€ en vous inscrivant aujourd’hui!
+spam,Félicitations! Vous avez été sélectionné pour un bon exclusif.
+spam,Votre compte est compromis. Cliquez pour mettre à jour votre mot de passe.
+spam,Vous avez gagné un téléphone neuf! Cliquez pour le réclamer.
+spam,Recevez une réduction exclusive aujourd’hui seulement! Cliquez ici.
+spam,Félicitations! Vous avez gagné une carte cadeau de 200€.
+spam,Votre compte PayPal est bloqué! Cliquez pour le débloquer.
+spam,Vous avez gagné 1000€! Cliquez ici pour le réclamer.
+ham,Comment ça va aujourd’hui? On se voit ce soir?
+ham,On se retrouve à 10 heures pour la réunion.
+ham,Tu as des projets pour le week-end?
+ham,Je pense acheter une nouvelle voiture.
+ham,Tu as vu le dernier film de Marvel?
+ham,On se retrouve à 6 heures pour un café?
+ham,Peux-tu m’envoyer les fichiers que tu m’as promis?
+ham,Je t’ai appelé hier, mais je n’ai pas pu te joindre.
+ham,Quand est-ce qu’on peut se voir pour discuter du projet?
+ham,Tu veux aller courir demain matin?
+ham,Je organise une fête ce vendredi, tu viens?
+ham,J’ai terminé la tâche, je peux te l’envoyer maintenant?
+ham,Quel temps fait-il aujourd’hui?
+ham,Tu peux m’aider avec ce problème de mathématiques?
+ham,On se retrouve au bureau à 9 heures.
+ham,Quand peut-on avoir notre prochaine réunion?
+ham,Tu as des recommandations de restaurants au centre-ville?
+ham,Je cherche un bon endroit pour dîner ce soir.
+ham,Comment s’est passée ta journée aujourd’hui?
+ham,Tu veux venir à une conférence le mois prochain?
+ham,Qu’en penses-tu du nouveau projet qu’on développe?
+ham,Tu veux aller marcher cet après-midi?
+ham,Peut-on parler de la nouvelle conception du site web?
+ham,Tu veux rejoindre mon équipe pour le projet?
+ham,Je t’attends pour discuter de la présentation.
+ham,Comment s’est passé ton week-end?
+ham,Je peux compter sur toi pour la prochaine présentation?

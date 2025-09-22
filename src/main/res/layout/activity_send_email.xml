@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <EditText
+            android:id="@+id/toEditText"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:drawableLeft="@drawable/emailicon"
+            android:hint="  Recipient Email"
+            android:inputType="textEmailAddress" />
+
+        <EditText
+            android:id="@+id/subjectEditText"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:drawableLeft="@drawable/subject"
+            android:hint="  Subject" />
+
+        <EditText
+            android:id="@+id/bodyEditText"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:hint="Message"
+            android:gravity="top"
+            android:inputType="textMultiLine"
+            android:background="@android:drawable/edit_text" />
+
+        <Button
+            android:id="@+id/sendButton"
+            android:layout_width="255dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="16dp"
+            android:backgroundTint="#809AA9"
+            android:text="Send Email" />
+
+    </LinearLayout>
+</ScrollView>

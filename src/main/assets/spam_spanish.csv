@@ -1,0 +1,64 @@
+label,text
+spam,¡Has ganado 1000€! Haz clic aquí para reclamar tu premio.
+spam,¡Felicidades! Has ganado un smartphone de última generación. Reclamalo ahora.
+spam,Tu cuenta está en riesgo. Haz clic en el enlace para actualizar tu información.
+spam,¡Ganaste un sorteo de 5000€! Reclama tu premio ahora.
+spam,¡Haz clic para obtener tu bono de 200€ ahora mismo!
+spam,Tu cuenta bancaria ha sido suspendida. Haz clic para reactivarla.
+spam,¡Enhorabuena! Has sido seleccionado para recibir un premio de 1000€. Haz clic aquí.
+spam,¡Aprovecha ahora! Obtén un descuento exclusivo de hasta el 50%. Haz clic aquí.
+spam,¡Felicidades! Has ganado un viaje gratis. Haz clic para obtener más detalles.
+spam,Tu factura pendiente está a punto de vencer. Haz clic para evitar cargos adicionales.
+spam,¡Recibe 300€ gratis! Solo por hacer clic en el siguiente enlace.
+spam,¡Tienes un nuevo mensaje! Haz clic aquí para leerlo.
+spam,¡Tu premio de 500€ te está esperando! Haz clic para reclamarlo.
+spam,¡Ganaste un millón de euros! Reclama tu premio ahora.
+spam,¡Tienes un mensaje importante! Haz clic para obtener más información.
+spam,Tu cuenta de Amazon está bloqueada. Haz clic para desbloquearla.
+spam,¡Has ganado un coche nuevo! Reclama tu premio ahora.
+spam,¡Felicidades! Has sido seleccionado para recibir un iPhone 12.
+spam,Tu cuenta de PayPal ha sido suspendida. Haz clic para recuperarla.
+spam,¡Te hemos seleccionado para un bono de 1000€! Reclámalo ahora.
+spam,Tu cuenta bancaria ha sido comprometida. Haz clic para protegerla.
+spam,¡Ganaste un viaje todo pagado! Haz clic para obtener más detalles.
+spam,¡Obten 200€ gratis! Solo por hacer clic aquí.
+spam,¡Tu tarjeta de crédito ha sido bloqueada! Haz clic para solucionarlo.
+spam,¡Has ganado 5000€! Reclama tu premio ahora.
+spam,¡Recibe un bono de 100€ al registrarte hoy mismo!
+spam,¡Felicidades! Has sido seleccionado para un bono exclusivo.
+spam,Tu cuenta está comprometida. Haz clic para actualizar tu contraseña.
+spam,¡Has ganado un teléfono nuevo! Haz clic para reclamarlo.
+spam,¡Recibe un descuento exclusivo solo por hoy! Haz clic aquí.
+spam,¡Felicidades! Has ganado una tarjeta regalo de 200€.
+spam,¡Tu cuenta PayPal está bloqueada! Haz clic para desbloquearla.
+spam,¡Has ganado 1000€! Reclama tu premio aquí.
+ham,¿Cómo estás hoy? ¿Vamos al cine esta tarde?
+ham,Nos vemos en la reunión a las 10 AM.
+ham,¿Tienes planes para el fin de semana?
+ham,Estoy pensando en comprar un coche nuevo.
+ham,¿Has visto la última película de Marvel?
+ham,¿Nos encontramos a las 6 para tomar un café?
+ham,¿Puedes enviarme los archivos que me prometiste?
+ham,Te llamé ayer, pero no pude comunicarme.
+ham,¿Cuándo nos vemos para discutir el proyecto?
+ham,¿Quieres ir a correr mañana por la mañana?
+ham,Estoy organizando una fiesta este viernes, ¿puedes venir?
+ham,He completado la tarea, ¿puedo enviártela ahora?
+ham,¿Qué tal está el clima hoy?
+ham,¿Puedes ayudarme con este problema de matemáticas?
+ham,Nos vemos en la oficina a las 9 AM.
+ham,¿Cuándo podemos tener nuestra próxima reunión?
+ham,¿Tienes alguna recomendación de restaurante en el centro?
+ham,Estoy buscando un buen lugar para cenar esta noche.
+ham,¿Cómo va tu día hoy?
+ham,¿Te gustaría acompañarme a una conferencia el próximo mes?
+ham,¿Qué piensas sobre el nuevo proyecto que estamos desarrollando?
+ham,¿Te gustaría salir a caminar esta tarde?
+ham,¿Podemos hablar sobre el nuevo diseño de la página web?
+ham,¿Te gustaría unirte a mi equipo para el proyecto?
+ham,Estoy esperando que llegues para discutir la presentación.
+ham,¿Cómo estuvo tu fin de semana?
+ham,¿Puedo contar contigo para la próxima presentación?
+ham,¿Dónde dejaste los documentos para el informe?
+ham,Nos vemos el próximo lunes para la reunión.
+ham,¿Tienes algún consejo sobre cómo mejorar la productividad en el trabajo?
